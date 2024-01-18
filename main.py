@@ -7,5 +7,6 @@ def myfunction(input):
 	return input
 
 
+myfunction("a");
 
 
